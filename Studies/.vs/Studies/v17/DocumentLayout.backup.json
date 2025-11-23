@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\",
+  "WorkspaceRootPath": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|c:\\users\\aless\\source\\repos\\am-xavier\\studies\\6. enumerations and compositions\\enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|c:\\users\\aless\\source\\repos\\am-xavier\\csharp-oop\\studies\\6. enumerations and compositions\\enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|solutionrelative:6. enumerations and compositions\\enumeration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|c:\\users\\aless\\source\\repos\\am-xavier\\studies\\6. enumerations and compositions\\enumeration\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|c:\\users\\aless\\source\\repos\\am-xavier\\csharp-oop\\studies\\6. enumerations and compositions\\enumeration\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|solutionrelative:6. enumerations and compositions\\enumeration\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|c:\\users\\aless\\source\\repos\\am-xavier\\studies\\6. enumerations and compositions\\enumeration\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|c:\\users\\aless\\source\\repos\\am-xavier\\csharp-oop\\studies\\6. enumerations and compositions\\enumeration\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4197421-D3F2-416D-9FA8-659C4F91CE8F}|6. Enumerations and Compositions\\Enumeration\\Enumeration.csproj|solutionrelative:6. enumerations and compositions\\enumeration\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,35 +32,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "6. Enumerations and Compositions\\Enumeration\\Entities\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "6. Enumerations and Compositions\\Enumeration\\Entities\\Enums\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T20:51:13.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T20:51:13.639Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "6. Enumerations and Compositions\\Enumeration\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\6. Enumerations and Compositions\\Enumeration\\Entities\\Order.cs",
               "RelativeToolTip": "6. Enumerations and Compositions\\Enumeration\\Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-23T20:50:49.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-23T20:50:49.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\6. Enumerations and Compositions\\Enumeration\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\6. Enumerations and Compositions\\Enumeration\\Program.cs",
               "RelativeDocumentMoniker": "6. Enumerations and Compositions\\Enumeration\\Program.cs",
-              "ToolTip": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\Studies\\6. Enumerations and Compositions\\Enumeration\\Program.cs",
+              "ToolTip": "C:\\Users\\aless\\source\\repos\\AM-Xavier\\csharp-oop\\Studies\\6. Enumerations and Compositions\\Enumeration\\Program.cs",
               "RelativeToolTip": "6. Enumerations and Compositions\\Enumeration\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

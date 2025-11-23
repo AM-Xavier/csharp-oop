@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Variables\obj\Debug\net8.0\ref\Variables.dll

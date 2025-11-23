@@ -1,0 +1,4 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\Var\obj\Debug\net8.0\Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\Var\obj\Debug\net8.0\Var.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\Var\obj\Debug\net8.0\Var.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\Var\obj\Debug\net8.0\Var.csproj.CoreCompileInputs.cache

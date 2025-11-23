@@ -1,0 +1,4 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\DateTimeOperations\obj\Debug\net8.0\DateTimeOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\DateTimeOperations\obj\Debug\net8.0\DateTimeOperations.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\DateTimeOperations\obj\Debug\net8.0\DateTimeOperations.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\DateTimeOperations\obj\Debug\net8.0\DateTimeOperations.csproj.CoreCompileInputs.cache

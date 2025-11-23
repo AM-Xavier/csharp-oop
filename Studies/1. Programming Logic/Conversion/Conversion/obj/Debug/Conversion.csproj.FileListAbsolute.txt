@@ -1,0 +1,2 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Conversion\Conversion\obj\Debug\Conversion.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache

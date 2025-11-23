@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\bin\Debug\net8.0\DataEntryStr.exe
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\bin\Debug\net8.0\DataEntryStr.deps.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\bin\Debug\net8.0\DataEntryStr.runtimeconfig.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\bin\Debug\net8.0\DataEntryStr.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\bin\Debug\net8.0\DataEntryStr.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\refint\DataEntryStr.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\DataEntryStr.genruntimeconfig.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\DataEntry\obj\Debug\net8.0\ref\DataEntryStr.dll

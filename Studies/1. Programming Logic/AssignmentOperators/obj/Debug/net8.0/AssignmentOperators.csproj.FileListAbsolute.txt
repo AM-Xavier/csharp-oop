@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.exe
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.deps.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.runtimeconfig.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\bin\Debug\net8.0\AssignmentOperators.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\refint\AssignmentOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\AssignmentOperators.genruntimeconfig.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AssignmentOperators\obj\Debug\net8.0\ref\AssignmentOperators.dll

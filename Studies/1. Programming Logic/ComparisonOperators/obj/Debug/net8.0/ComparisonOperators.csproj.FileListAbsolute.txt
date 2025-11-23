@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.exe
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.deps.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.runtimeconfig.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\refint\ComparisonOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.genruntimeconfig.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\ComparisonOperators\obj\Debug\net8.0\ref\ComparisonOperators.dll

@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\bin\Debug\net8.0\TernaryConditional.exe
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\bin\Debug\net8.0\TernaryConditional.deps.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\bin\Debug\net8.0\TernaryConditional.runtimeconfig.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\bin\Debug\net8.0\TernaryConditional.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\bin\Debug\net8.0\TernaryConditional.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\refint\TernaryConditional.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\TernaryConditional.genruntimeconfig.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TernaryConditional\obj\Debug\net8.0\ref\TernaryConditional.dll

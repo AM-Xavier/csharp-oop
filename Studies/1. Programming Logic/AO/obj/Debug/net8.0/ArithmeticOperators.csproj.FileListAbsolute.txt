@@ -1,0 +1,14 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\bin\Debug\net8.0\ArithmeticOperators.exe
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\bin\Debug\net8.0\ArithmeticOperators.deps.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\bin\Debug\net8.0\ArithmeticOperators.runtimeconfig.json
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\bin\Debug\net8.0\ArithmeticOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\bin\Debug\net8.0\ArithmeticOperators.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\refint\ArithmeticOperators.dll
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.pdb
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ArithmeticOperators.genruntimeconfig.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\1. Programming Logic\AO\obj\Debug\net8.0\ref\ArithmeticOperators.dll

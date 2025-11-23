@@ -1,0 +1,4 @@
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TimeSpan\obj\Debug\net8.0\TimeSpans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TimeSpan\obj\Debug\net8.0\TimeSpans.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TimeSpan\obj\Debug\net8.0\TimeSpans.AssemblyInfo.cs
+C:\Users\aless\source\repos\AM-Xavier\Studies\5. Special topics\TimeSpan\obj\Debug\net8.0\TimeSpans.csproj.CoreCompileInputs.cache
